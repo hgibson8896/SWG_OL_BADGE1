@@ -1,0 +1,3 @@
+# SWG_OL_BADGE1
+
+Java Exercises Flow Control, While, Do While, For Loop, Random, Scanner ...
